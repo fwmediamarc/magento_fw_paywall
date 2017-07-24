@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <FW_Paywall>
+            <active>true</active>
+            <codePool>local</codePool>
+            <depends>
+                <Mage_Checkout/>
+                <Mage_Sales/>
+                <Mage_CatalogInventory/>
+            </depends>
+        </FW_Paywall>
+    </modules>
+</config>

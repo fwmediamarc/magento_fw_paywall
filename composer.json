@@ -1,0 +1,13 @@
+{
+    "name": "fwcommunity/magento-fw-paywall",
+    "description": "FW Media: Magento Paywall",
+    "license": "OSL-3.0",
+    "authors": [
+        { "name": "Marc Pereira", "email": "marc.pereira@fwmedia.com", "role": "Developer" },
+        { "name": "Darrell Starnes", "email": "darrell.starnes@fwmedia.com", "role": "Developer" }
+    ],
+    "type": "magento-module",
+    "require": {
+        "php": ">=5.6.0"
+    }
+}
